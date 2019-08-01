@@ -30,6 +30,8 @@ Before the data was fed through the network for training, it had to be normalize
 
 In order to test the network, all of East Greenbush's data from 2017 was taken out of the training data. In /2017/, addDays.py creates 2017.csv, a list of all the days in 2017, what kind of day it was (0, 1, 2, 3: days other than 0 were manually subed in), and the latitude and longitude of East Greenbush. Then, data.py created 2017data.py from 2017.py which includes all the weather data mentioned above. Finally, normalize.py creates 2017final.csv from 2018data.csv, normalizing the data on the same predefined range mentioned above. Then, every day in East Greenbush in 2017 could be tested on after the network had trained to assess its abillity.
 
+### Network Training
+
 
 
 Powered by Dark Sky
