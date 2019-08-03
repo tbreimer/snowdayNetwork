@@ -4,9 +4,11 @@ This is a program that trains a neural network to predict snowdays, 2hr delays a
 
 
 ## Quick Start
+
 * Ensure that TensorFlow version 1.14.0 is installed
 * Navigate to /network/
 * Run snowDay.py using python
+
 
 ## Process
 
