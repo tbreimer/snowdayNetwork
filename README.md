@@ -46,7 +46,7 @@ While the results above are very good, there are various reasons as to why they 
 
 ### Web App
 
-I am currently working on a web app to make the network interactive for everyone. In it, users will be able to enter their location and get the network's predictions based on the weather forecast. Its GitHub repository can be found [here](https://github.com/tbreimer/snowdayForecast) and I intend to finished it before school starts in early September.
+I am currently working on a web app to make the network interactive for everyone. In it, users will be able to enter their location and get the network's predictions based on the weather forecast. Its GitHub repository can be found [here](https://github.com/tbreimer/snowdayForecast) and I intend to finish it before school starts in early September.
 
 Powered by Dark Sky
 
